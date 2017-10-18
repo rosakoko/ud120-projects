@@ -23,3 +23,11 @@ accuracy = accuracy_score(pre, y_test)
 or: accuracy = clf.score(X_test, y_test) #this one no need predict
   
 Naive Bayes: Naive means ignore word order
+  
+  
+Lesson 3: SVM  
+1. linear separation  
+  
+2. from sklearn.svm import SVC  
+  
+3. non-linear separation: using Kenrel Trick  
